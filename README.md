@@ -29,6 +29,12 @@ It was created as part of a Web Development Cohort assignment to demonstrate und
 
 ---
 
+## Screenshots
+
+![Resume Screenshot 1](images/screenshot1.png)
+![Resume Screenshot 2](images/screenshot2.png)
+
+
 ## ⚙ Setup Instructions
 
 1. Clone the repository:
